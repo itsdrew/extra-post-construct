@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: extra.post.construct
+---
+testFramework: junit
+sourceLanguage: java
